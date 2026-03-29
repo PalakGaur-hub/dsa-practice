@@ -3,9 +3,7 @@
 This repository contains my daily practice of Data Structures and Algorithms.
 
 Languages used:
-- Python
-- Java
-- 
+- C
 Goal:
 - Stay consistent
 - Improve problem solving
